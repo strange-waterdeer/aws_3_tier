@@ -1,5 +1,4 @@
 variable "aws_region" {
-  description = "region of vpc"
 }
 variable "az" {
 }
